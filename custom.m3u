@@ -1,0 +1,172 @@
+#EXTM3U
+
+
+#EXTINF:-1 tvg-name="Star Jalsha HD" tvg-logo="https://img.media.jio.com/tvpimages/13/28/301972_1753203983323_l_medium.jpg" group-title="Entertainment",Star Jalsha HD
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://jt.drmlive.net/jiotvplus/jtck?id=317
+#EXTVLCOPT:http-user-agent=plaYtv/7.1.5 (Linux;Android 14) ExoPlayerLib/2.11.7
+https://jt.drmlive.net/jiotvplus/317.mpd
+
+#EXTINF:-1 tvg-id="522" tvg-name="Zee Bangla HD" tvg-logo="https://img.media.jio.com/tvpimages/71/9/304105_1768467749246_l_medium.jpg" group-title="Entertainment",Zee Bangla HD
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://jt.drmlive.net/jiotvplus/jtck?id=1977
+https://jt.drmlive.net/jiotvplus/1977.mpd
+
+#EXTINF:-1 tvg-name="Zee Bangla" tvg-logo="https://img.media.jio.com/tvpimages/10/93/300323_1768297625116_l_medium.jpg" group-title="Entertainment",Zee Bangla
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=1df83e058b864da896c9288eef63b113:fc32f26239054b56aab48225305598fe
+#EXTVLCOPT:http-user-agent=plaYtv/7.1.5 (Linux;Android 14) ExoPlayerLib/2.11.7
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebangla/default/index.mpd
+
+#EXTINF:-1 tvg-name="Sony Pal" tvg-logo="https://img.media.jio.com/tvpimages/27/1/300268_1753198502966_l_medium.jpg" group-title="Entertainment",Sony PAL
+https://sliv.tgaadi.workers.dev/sonypalsd.m3u8
+
+#EXTINF:-1 tvg-name="Sony SAB" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONY_SAB/images/LANDSCAPE_169_HD/LANDSCAPE_169_HD_image.png" group-title="Entertainment",Sony SAB
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://premiumplugx.top/Geo/playlist.php?route=license&id=sonysab
+https://premiumplugx.top/Geo/playlist.php?route=mpd&id=sonysab
+
+#EXTINF:-1 tvg-name="Sony SAB HD" tvg-logo="https://img.media.jio.com/tvpimages/3/37/300267_1753198029802_l_medium.jpg" group-title="Entertainment",Sony SAB HD
+https://sliv.tgaadi.workers.dev/sabhd.m3u8
+
+#EXTINF:-1 tvg-name="SET HD" tvg-logo="https://img.media.jio.com/imagespublic/40/88/300266_1666878589057_p_medium.jpg" group-title="Entertainment",Sony SET HD
+https://sliv.tgaadi.workers.dev/sethd.m3u8
+
+#EXTINF:-1 tvg-name="And TV HD" tvg-logo="https://img.media.jio.com/tvpimages/65/85/300377_1753869832519_l_medium.jpg" group-title="Entertainment",&TV HD
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=67d18634ccb04875875c60fb8d9caaba:99a66471c09e4b8a8dc39a0de6803f75
+#EXTVLCOPT:http-user-agent=plaYtv/7.1.5 (Linux;Android 14) ExoPlayerLib/2.11.7
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andtvhd/default/index.mpd
+
+#EXTINF:-1 tvg-name="Zee TV HD" tvg-logo="https://img.media.jio.com/tvpimages/66/3/300378_1753869902174_l_medium.jpg" group-title="Entertainment",Zee TV HD
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=65c3633157574361b191059e46e72968:78450b11381340c297d96c13183d3744
+#EXTVLCOPT:http-user-agent=plaYtv/7.1.5 (Linux;Android 14) ExoPlayerLib/2.11.7
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeetvhd/default/index.mpd
+
+#EXTINF:-1 tvg-name="Sangeet Bangla" tvg-logo="https://img.media.jio.com/imagespublic/96/84/SangeetBangla_1574695309972_tv.jpg" group-title="Music",Sangeet Bangla
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=55ef53e7216640ea862b98c3864000f7:11c2726ab75d4e6aaf54e0e09b5ae593
+#EXTVLCOPT:http-user-agent=plaYtv/7.1.5 (Linux;Android 14) ExoPlayerLib/2.11.7
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Sangeetbangla2/default/main.mpd
+
+#EXTINF:-1 tvg-name="ZOOM" tvg-logo="https://img.media.jio.com/tvpimages/60/15/301151_1761908168253_l_medium.jpg" group-title="Music",ZOOM
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=86edec9e3b7d4042a4d4a1ca14f847ee:9def4315f0004019a3705bcb3cf30ca3
+#EXTVLCOPT:http-user-agent=plaYtv/7.1.5 (Linux;Android 14) ExoPlayerLib/2.11.7
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zoom2/default/main.mpd
+
+#EXTINF:-1 tvg-name="Zing" tvg-logo="https://img.media.jio.com/tvpimages/4/8/300314_1768297503669_l_medium.jpg" group-title="Music",Zing
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=f0fb14eebe474a6ab74c8301d55a7224:f9f8b2e30704458b8db844a285ce32be
+#EXTVLCOPT:http-user-agent=plaYtv/7.1.5 (Linux;Android 14) ExoPlayerLib/2.11.7
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zing/default/index.mpd
+
+#EXTINF:-1 tvg-name="Disney" tvg-logo="https://img.media.jio.com/tvpimages/1/35/302071_1753185242621_l_medium.jpg" group-title="Kids",Disney Channel
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://jt.drmlive.net/jiotvplus/jtck?id=1373
+#EXTVLCOPT:http-user-agent=plaYtv/7.1.5 (Linux;Android 14) ExoPlayerLib/2.11.7
+https://jt.drmlive.net/jiotvplus/1373.mpd
+
+#EXTINF:-1 tvg-name="Hungama" tvg-logo="https://img.media.jio.com/tvpimages/86/46/302072_1753187422003_l_medium.jpg" group-title="Kids",Hungama
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://jt.drmlive.net/jiotvplus/jtck?id=1391
+#EXTVLCOPT:http-user-agent=plaYtv/7.1.5 (Linux;Android 14) ExoPlayerLib/2.11.7
+https://jt.drmlive.net/jiotvplus/1391.mpd
+
+#EXTINF:-1 tvg-name="SONY YAY!" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONY_YAY/images/LANDSCAPE_169_HD/LANDSCAPE_169_HD_image.png" group-title="Kids",Sony Yay
+https://sliv.tgaadi.workers.dev/sonyyaysd.m3u8
+
+#EXTINF:-1 tvg-name="ABP Ananda" tvg-logo="https://img.media.jio.com/tvpimages/15/31/300090_1753177100293_l_medium.jpg" group-title="News",ABP Ananda
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-abpananda-xiaomi/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Zee 24 Ghanta" tvg-logo="https://img.media.jio.com/tvpimages/55/27/301356_1753199302139_l_medium.jpg" group-title="News",Zee 24 Ghanta
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-zee24ghantaa-xiaomi/playlist.m3u8
+
+#EXTINF:-1 tvg-name="News18 Bangla" tvg-logo="https://img.media.jio.com/tvpimages/11/70/300293_1753197210858_l_medium.jpg" group-title="News",News18 Bangla
+https://amg00866-amg00866c8-xiaomi-in-3555.playouts.now.amagi.tv/playlist/amg00866-tv18broadcastlimitedfast-news18bangla-xiaomiin/playlist.m3u8
+
+#EXTINF:-1 tvg-name="TV9 Bangla" tvg-logo="https://img.media.jio.com/tvpimages/43/95/301139_1753182831500_l_medium.jpg" group-title="News",TV9 Bangla
+https://amg01106-tv9-amg01106c1-xiaomi-in-1073.playouts.now.amagi.tv/playlist/amg01106-tv9fast-tv9bangala-xiaomiin/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Sony Max HD" tvg-logo="https://img.media.jio.com/tvpimages/3/1/300277_1753198063650_l_medium.jpg" group-title="Movies",Sony MAX HD
+https://sliv.tgaadi.workers.dev/sonymaxhd.m3u8
+
+#EXTINF:-1 tvg-name="Sony Pix HD" tvg-logo="https://img.media.jio.com/tvpimages/45/90/304083_1766565491140_l_medium.jpg" group-title="Movies",Sony PIX HD
+https://sliv.tgaadi.workers.dev/pixhd.m3u8
+
+#EXTINF:-1 tvg-name="Sony Wah" tvg-logo="https://img.media.jio.com/tvpimages/75/37/300269_1753198012625_l_medium.jpg" group-title="Movies",Sony WAH
+https://sliv.tgaadi.workers.dev/sonywah.m3u8
+
+#EXTINF:-1 tvg-name="And Pictures HD" tvg-logo="https://img.media.jio.com/tvpimages/57/85/300328_1768298228357_l_medium.jpg" group-title="Movies",&Pictures HD
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=de8045e9f0fb4d03845dcc4a8bd7712a:6807bd09bda34ada83152908192af6d6
+#EXTVLCOPT:http-user-agent=plaYtv/7.1.5 (Linux;Android 14) ExoPlayerLib/2.11.7
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andpictureshd/default/index.mpd
+
+#EXTINF:-1 tvg-name="Zee Cinema HD" tvg-logo="https://img.media.jio.com/tvpimages/76/6/300330_1768289569650_l_medium.jpg" group-title="Movies",Zee Cinema HD
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=f56beaac9f124616872c741c9ce4fa4e:5d40a903238f4ad98abbed1877d4e3d1
+#EXTVLCOPT:http-user-agent=plaYtv/7.1.5 (Linux;Android 14) ExoPlayerLib/2.11.7
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeecinemahd/default/index.mpd
+
+#EXTINF:-1 tvg-name="Animal Planet HD" tvg-logo="https://img.media.jio.com/tvpimages/26/73/304073_1765355358718_l_medium.jpg" group-title="Infotainment",Animal Planet HD
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=12ED56D780ABCFEBCD23AA27E4AC5010:6784567890ABCFEBCD23AA27E4AC2809
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.vzy.one/
+#EXTVLCOPT:http-origin=https://www.vzy.one
+https://wbd.skandha.tv/APL_HD_World_India/APL_HD_World_India.isml/.mpd
+
+#EXTINF:-1 tvg-name="Discovery HD World" tvg-logo="https://img.media.jio.com/tvpimages/67/36/304072_1765355350270_l_medium.jpg" group-title="Infotainment",Discovery HD
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=12ED56D780ABCFEBCD23AA27E4AC5008:6784567890ABCFEBCD23AA27E4AC2807
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.vzy.one/
+#EXTVLCOPT:http-origin=https://www.vzy.one
+https://wbd.skandha.tv/DSC_HD_India/DSC_HD_India.isml/.mpd
+
+#EXTINF:-1 tvg-name="Sony BBC Earth HD" tvg-logo="https://img.media.jio.com/tvpimages/91/70/304082_1766563774401_l_medium.jpg" group-title="Infotainment",Sony BBC Earth HD
+https://sliv.tgaadi.workers.dev/sonybbcearthhd.m3u8
+
+#EXTINF:-1 tvg-name="SONY SPORTS TEN 1 HD" tvg-logo="https://img.media.jio.com/tvpimages/5/8/300256_1753198281835_l_medium.jpg" group-title="Sports",Sony Sports Ten 1 HD
+https://sliv.tgaadi.workers.dev/ten1hd.m3u8
+
+#EXTINF:-1 tvg-name="SONY SPORTS TEN 2 HD" tvg-logo="https://img.media.jio.com/tvpimages/94/91/300273_1753198175927_l_medium.jpg" group-title="Sports",Sony Sports Ten 2 HD
+https://sliv.tgaadi.workers.dev/ten2hd.m3u8
+
+#EXTINF:-1 tvg-name="SONY SPORTS TEN 3 Hindi HD" tvg-logo="https://img.media.jio.com/tvpimages/1/58/300255_1758886957880_l_medium.jpg" group-title="Sports",Sony Sports Ten 3 Hindi HD
+https://sliv.tgaadi.workers.dev/ten3hd.m3u8
+
+#EXTINF:-1 tvg-name="Sony Ten 5 HD" tvg-logo="https://img.media.jio.com/tvpimages/31/97/300258_1753198241206_l_medium.jpg" group-title="Sports",Sony Sports Ten 5 HD
+https://sliv.tgaadi.workers.dev/sonysixhd.m3u8
