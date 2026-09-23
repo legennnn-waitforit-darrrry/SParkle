@@ -100,16 +100,28 @@ https://jt.drmlive.net/jiotvplus/1391.mpd
 https://sliv.tgaadi.workers.dev/sonyyaysd.m3u8
 
 #EXTINF:-1 tvg-name="ABP Ananda" tvg-logo="https://img.media.jio.com/tvpimages/15/31/300090_1753177100293_l_medium.jpg" group-title="News",ABP Ananda
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#EXTVLCOPT:http-user-agent=plaYtv/7.1.5 (Linux;Android 14) ExoPlayerLib/2.11.7
 https://jmp2.uk/stvp-IN4000006CF
 
 #EXTINF:-1 tvg-name="Zee 24 Ghanta" tvg-logo="https://img.media.jio.com/tvpimages/55/27/301356_1753199302139_l_medium.jpg" group-title="News",Zee 24 Ghanta
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#EXTVLCOPT:http-user-agent=plaYtv/7.1.5 (Linux;Android 14) ExoPlayerLib/2.11.7
 https://jmp2.uk/stvp-INBD400003GE
 
 #EXTINF:-1 tvg-name="News18 Bangla" tvg-logo="https://img.media.jio.com/tvpimages/11/70/300293_1753197210858_l_medium.jpg" group-title="News",News18 Bangla
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#EXTVLCOPT:http-user-agent=plaYtv/7.1.5 (Linux;Android 14) ExoPlayerLib/2.11.7
 https://jmp2.uk/stvp-INBD25000081V
 
 #EXTINF:-1 tvg-name="TV9 Bangla" tvg-logo="https://img.media.jio.com/tvpimages/43/95/301139_1753182831500_l_medium.jpg" group-title="News",TV9 Bangla
-https://jmp2.uk/stvp-IN4000006CF
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#EXTVLCOPT:http-user-agent=plaYtv/7.1.5 (Linux;Android 14) ExoPlayerLib/2.11.7
+https://jmp2.uk/stvp-INBD2500007PD
 
 #EXTINF:-1 tvg-name="Sony Max HD" tvg-logo="https://img.media.jio.com/tvpimages/3/1/300277_1753198063650_l_medium.jpg" group-title="Movies",Sony MAX HD
 https://sliv.tgaadi.workers.dev/sonymaxhd.m3u8
@@ -139,21 +151,17 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeecinemahd/default/index.mpd
 #EXTINF:-1 tvg-name="Animal Planet HD" tvg-logo="https://img.media.jio.com/tvpimages/26/73/304073_1765355358718_l_medium.jpg" group-title="Infotainment",Animal Planet HD
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=12ED56D780ABCFEBCD23AA27E4AC5010:6784567890ABCFEBCD23AA27E4AC2809
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.vzy.one/
-#EXTVLCOPT:http-origin=https://www.vzy.one
 https://wbd.skandha.tv/APL_HD_World_India/APL_HD_World_India.isml/.mpd
 
 #EXTINF:-1 tvg-name="Discovery HD World" tvg-logo="https://img.media.jio.com/tvpimages/67/36/304072_1765355350270_l_medium.jpg" group-title="Infotainment",Discovery HD
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=12ED56D780ABCFEBCD23AA27E4AC5008:6784567890ABCFEBCD23AA27E4AC2807
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.vzy.one/
-#EXTVLCOPT:http-origin=https://www.vzy.one
 https://wbd.skandha.tv/DSC_HD_India/DSC_HD_India.isml/.mpd
 
 #EXTINF:-1 tvg-name="Sony BBC Earth HD" tvg-logo="https://img.media.jio.com/tvpimages/91/70/304082_1766563774401_l_medium.jpg" group-title="Infotainment",Sony BBC Earth HD
