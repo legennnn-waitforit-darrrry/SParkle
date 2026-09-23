@@ -103,25 +103,25 @@ https://sliv.tgaadi.workers.dev/sonyyaysd.m3u8
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.5 (Linux;Android 14) ExoPlayerLib/2.11.7
-https://jmp2.uk/stvp-IN4000006CF
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-abpananda-xiaomi/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Zee 24 Ghanta" tvg-logo="https://img.media.jio.com/tvpimages/55/27/301356_1753199302139_l_medium.jpg" group-title="News",Zee 24 Ghanta
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.5 (Linux;Android 14) ExoPlayerLib/2.11.7
-https://jmp2.uk/stvp-INBD400003GE
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-zee24ghantaa-xiaomi/playlist.m3u8
 
 #EXTINF:-1 tvg-name="News18 Bangla" tvg-logo="https://img.media.jio.com/tvpimages/11/70/300293_1753197210858_l_medium.jpg" group-title="News",News18 Bangla
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.5 (Linux;Android 14) ExoPlayerLib/2.11.7
-https://jmp2.uk/stvp-INBD25000081V
+https://amg00866-amg00866c8-xiaomi-in-3555.playouts.now.amagi.tv/playlist/amg00866-tv18broadcastlimitedfast-news18bangla-xiaomiin/playlist.m3u8
 
 #EXTINF:-1 tvg-name="TV9 Bangla" tvg-logo="https://img.media.jio.com/tvpimages/43/95/301139_1753182831500_l_medium.jpg" group-title="News",TV9 Bangla
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.5 (Linux;Android 14) ExoPlayerLib/2.11.7
-https://jmp2.uk/stvp-INBD2500007PD
+https://amg01106-tv9-amg01106c1-xiaomi-in-1073.playouts.now.amagi.tv/playlist/amg01106-tv9fast-tv9bangala-xiaomiin/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Sony Max HD" tvg-logo="https://img.media.jio.com/tvpimages/3/1/300277_1753198063650_l_medium.jpg" group-title="Movies",Sony MAX HD
 https://sliv.tgaadi.workers.dev/sonymaxhd.m3u8
