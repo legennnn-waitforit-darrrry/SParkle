@@ -148,22 +148,6 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andpictureshd/default/index.mpd
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.5 (Linux;Android 14) ExoPlayerLib/2.11.7
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeecinemahd/default/index.mpd
 
-#EXTINF:-1 tvg-name="Animal Planet HD" tvg-logo="https://img.media.jio.com/tvpimages/26/73/304073_1765355358718_l_medium.jpg" group-title="Infotainment",Animal Planet HD
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=12ED56D780ABCFEBCD23AA27E4AC5010:6784567890ABCFEBCD23AA27E4AC2809
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36
-https://wbd.skandha.tv/APL_HD_World_India/APL_HD_World_India.isml/.mpd
-
-#EXTINF:-1 tvg-name="Discovery HD World" tvg-logo="https://img.media.jio.com/tvpimages/67/36/304072_1765355350270_l_medium.jpg" group-title="Infotainment",Discovery HD
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=12ED56D780ABCFEBCD23AA27E4AC5008:6784567890ABCFEBCD23AA27E4AC2807
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36
-https://wbd.skandha.tv/DSC_HD_India/DSC_HD_India.isml/.mpd
-
 #EXTINF:-1 tvg-name="Sony BBC Earth HD" tvg-logo="https://img.media.jio.com/tvpimages/91/70/304082_1766563774401_l_medium.jpg" group-title="Infotainment",Sony BBC Earth HD
 https://sliv.tgaadi.workers.dev/sonybbcearthhd.m3u8
 
