@@ -18,6 +18,7 @@ https://sliv.tgaadi.workers.dev/sonypalsd.m3u8
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://tvforsure.connectadwitiyad.workers.dev/license?id=154
+#EXTVLCOPT:http-user-agent=plaYtv/7.1.5 (Linux;Android 14) ExoPlayerLib/2.11.7
 https://tvforsure.connectadwitiyad.workers.dev/play?id=154
 
 #EXTINF:-1 tvg-name="Sony SAB HD" tvg-logo="https://img.media.jio.com/tvpimages/3/37/300267_1753198029802_l_medium.jpg" group-title="Entertainment",Sony SAB HD
