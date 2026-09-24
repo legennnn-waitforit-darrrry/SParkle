@@ -1,35 +1,5 @@
-#EXTM3U x-tvg-url="https://tsepg.code9.workers.dev/epg.xml.gz,https://tsepg.code9.workers.dev/jio.xml.gz"
+#EXTM3U
 
-#EXTINF:-1 tvg-id="471" tvg-name="Sony SAB HD" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/SonySAB.png" tvg-category="Entertainment" tvg-language="hin" group-title="Jio TV+ | Entertainment" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ32BfOcij5y0NkYztgiMZ3AFXmBjXlAIYiuKm2U49BBLqpI4ZWuR92-LA&s=10" type="dash",Sony SAB HD
-#AUTO-FETCHED
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Premium%20Plugx&Referer=https%3A%2F%2Fwww.jiotv.com%2F&Origin=https%3A%2F%2Fwww.jiotv.com%2F&Cookie=__hdnea__%3Dst%3D1790239219~exp%3D1790260819~acl%3D%2F*~hmac%3D7ce5e2245839b5c4dc56d44950c95fedf91225cac5fc9f61402ef0b4e2d9a0be
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=f223cf2122d7510da9fcec6e523ffba1:c55848470f58d3bd934fbfe844522b0e
-#EXTVLCOPT:http-user-agent=Premium Plugx
-#EXTVLCOPT:http-referrer=https://www.jiotv.com/
-#EXTVLCOPT:http-cookie=__hdnea__=st=1790239219~exp=1790260819~acl=/*~hmac=7ce5e2245839b5c4dc56d44950c95fedf91225cac5fc9f61402ef0b4e2d9a0be
-#EXTHTTP:{"User-Agent":"Premium Plugx","Referer":"https://www.jiotv.com/","Origin":"https://www.jiotv.com/","Cookie":"__hdnea__=st=1790239219~exp=1790260819~acl=/*~hmac=7ce5e2245839b5c4dc56d44950c95fedf91225cac5fc9f61402ef0b4e2d9a0be"}
-https://jiotvmblive.cdn.jio.com/bpk-tv/SonySAB_MOB/WDVLive/index.mpd
-
-#EXTINF:-1 tvg-id="154" tvg-name="Sony SAB" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_SAB.png" tvg-category="Entertainment" tvg-language="hin" group-title="Jio TV+ | Entertainment" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ32BfOcij5y0NkYztgiMZ3AFXmBjXlAIYiuKm2U49BBLqpI4ZWuR92-LA&s=10" type="dash",Sony SAB
-#AUTO-FETCHED
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Premium%20Plugx&Referer=https%3A%2F%2Fwww.jiotv.com%2F&Origin=https%3A%2F%2Fwww.jiotv.com%2F&Cookie=__hdnea__%3Dst%3D1790239219~exp%3D1790260819~acl%3D%2F*~hmac%3D7ce5e2245839b5c4dc56d44950c95fedf91225cac5fc9f61402ef0b4e2d9a0be
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ba4d9b38517552de9654d3652d27933b:31e7cbf3d289d3116386457ed8bac3a2
-#EXTVLCOPT:http-user-agent=Premium Plugx
-#EXTVLCOPT:http-referrer=https://www.jiotv.com/
-#EXTVLCOPT:http-cookie=__hdnea__=st=1790239219~exp=1790260819~acl=/*~hmac=7ce5e2245839b5c4dc56d44950c95fedf91225cac5fc9f61402ef0b4e2d9a0be
-#EXTHTTP:{"User-Agent":"Premium Plugx","Referer":"https://www.jiotv.com/","Origin":"https://www.jiotv.com/","Cookie":"__hdnea__=st=1790239219~exp=1790260819~acl=/*~hmac=7ce5e2245839b5c4dc56d44950c95fedf91225cac5fc9f61402ef0b4e2d9a0be"}
-https://jiotvmblive.cdn.jio.com/bpk-tv/Sony_SAB_MOB/WDVLive/index.mpd
-
-#EXTINF:-1 tvg-id="sony-sab-hd" tvg-name="Sony SAB HD" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/SonySAB.png" tvg-category="Entertainment" tvg-language="Hindi" group-title="Sony LIV" group-logo="https://upload.wikimedia.org/wikipedia/commons/f/f7/SonyLIV_2020.png",Sony SAB HD
-#AUTO-FETCHED
-#EXTVLCOPT:http-user-agent=plaYtv/7.1.5 (Linux;Android 14) ExoPlayerLib/2.11.7
-https://sliv.tgaadi.workers.dev/sabhd.m3u8
 
 #EXTINF:-1 tvg-name="Star Jalsha HD" tvg-logo="https://img.media.jio.com/tvpimages/13/28/301972_1753203983323_l_medium.jpg" group-title="Entertainment",Star Jalsha HD
 #KODIPROP:inputstream=inputstream.adaptive
@@ -201,3 +171,4 @@ https://d2o8pibksxtln6.cloudfront.net/live/media/Unite8_Sports_1_HD/dash/Unite8_
 #KODIPROP:inputstream.adaptive.license_key=2f55e6ba8a8249f2af86ba47e61dc5c0:bbcb032ddbe94ae009a1d087e6ddd579
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.5 (Linux;Android 14) ExoPlayerLib/2.11.7
 https://d2o8pibksxtln6.cloudfront.net/live/media/Unite8_Sports_2_HD/dash/Unite8_Sports_2_HD.mpd
+
