@@ -15,10 +15,10 @@ https://d2o8pibksxtln6.cloudfront.net/live/media/Zee_Bangla_HD/dash/Zee_Bangla_H
 https://sliv.tgaadi.workers.dev/sonypalsd.m3u8
 
 #EXTINF:-1 tvg-id="Sony SAB" tvg-name="Sony SAB" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONY_SAB/images/LANDSCAPE_169_HD/LANDSCAPE_169_HD_image.png" group-title="Entertainment",Sony SAB
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://premiumplugx.top/Geo/playlist.php?route=license&id=sonysab
-https://premiumplugx.top/Geo/playlist.php?route=mpd&id=sonysab
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mix.drmlive.net/mix/sungo-wv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
+https://sundirectgo.pc.cdn.bitgravity.com/src672/dth.mpd
 
 #EXTINF:-1 tvg-name="Sony SAB HD" tvg-logo="https://img.media.jio.com/tvpimages/3/37/300267_1753198029802_l_medium.jpg" group-title="Entertainment",Sony SAB HD
 https://sliv.tgaadi.workers.dev/sabhd.m3u8
