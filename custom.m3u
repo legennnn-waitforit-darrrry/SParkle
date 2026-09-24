@@ -1,5 +1,4 @@
-#EXTM3U
-
+#EXTM3U x-tvg-url="https://tsepg.code9.workers.dev/epg.xml.gz,https://tsepg.code9.workers.dev/jio.xml.gz"
 
 #EXTINF:-1 tvg-name="Star Jalsha HD" tvg-logo="https://img.media.jio.com/tvpimages/13/28/301972_1753203983323_l_medium.jpg" group-title="Entertainment",Star Jalsha HD
 #KODIPROP:inputstream=inputstream.adaptive
@@ -171,5 +170,3 @@ https://d2o8pibksxtln6.cloudfront.net/live/media/Unite8_Sports_1_HD/dash/Unite8_
 #KODIPROP:inputstream.adaptive.license_key=2f55e6ba8a8249f2af86ba47e61dc5c0:bbcb032ddbe94ae009a1d087e6ddd579
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.5 (Linux;Android 14) ExoPlayerLib/2.11.7
 https://d2o8pibksxtln6.cloudfront.net/live/media/Unite8_Sports_2_HD/dash/Unite8_Sports_2_HD.mpd
-
-
