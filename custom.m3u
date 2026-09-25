@@ -7,9 +7,9 @@
 https://jt.drmlive.net/jiotvplus/317.mpd
 
 #EXTINF:-1 tvg-name="Zee Bangla HD" tvg-logo="https://img.media.jio.com/tvpimages/71/9/304105_1768467749246_l_medium.jpg" group-title="Entertainment",Zee Bangla HD
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=3c56713373684c87bd82a20511b56a42:823f9ad25bb89ab36818f821084abcf1
-https://d2o8pibksxtln6.cloudfront.net/live/media/Zee_Bangla_HD/dash/Zee_Bangla_HD.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1df83e058b864da896c9288eef63b113:fc32f26239054b56aab48225305598fe
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebangla/default/index.mpd
 
 #EXTINF:-1 tvg-name="Sony Pal" tvg-logo="https://img.media.jio.com/tvpimages/27/1/300268_1753198502966_l_medium.jpg" group-title="Entertainment",Sony PAL
 https://sliv.tgaadi.workers.dev/sonypalsd.m3u8
