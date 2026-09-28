@@ -4,6 +4,12 @@
 #EXTINF:-1 tvg-name="Star Jalsha HD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_JALSHA_HD/images/LANDSCAPE_169_HD/image.png" group-title="Entertainment",Star Jalsha HD
 intent://www.hotstar.com/in/tv/star-jalsha/1540068265/live/watch#Intent;scheme=https;package=in.startv.hotstar;end
 
+#EXTINF:-1 tvg-name="Star Jalsha HD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_JALSHA_HD/images/LANDSCAPE_169_HD/image.png" group-title="Entertainment",Star Jalsha HD
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://premiumplugx.top/Geo/playlist.php?route=license&id=starjalshahd
+https://premiumplugx.top/Geo/playlist.php?route=mpd&id=starjalshahd
+
 #EXTINF:-1 tvg-name="Zee Bangla HD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_BANGLA_HD/images/LANDSCAPE_169_HD/LANDSCAPE_169_HD_image.png" group-title="Entertainment",Zee Bangla HD
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
