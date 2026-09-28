@@ -119,3 +119,5 @@ https://sliv.tgaadi.workers.dev/ten3hd.m3u8
 #EXTINF:-1 tvg-name="Sony Ten 5 HD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONY_SPORTS_TEN_5_HD/images/LANDSCAPE_169_HD/LANDSCAPE_169_HD_image.png" group-title="Sports",Sony Sports Ten 5 HD
 https://sliv.tgaadi.workers.dev/sonysixhd.m3u8
 
+#EXTINF:-1 tvg-name="Nat Geo Wild Digital" tvg-logo="https://img10.hotstar.com/image/upload/sources/r1/cms/prod/5075/1785250005075-h" group-title="Knowledge", Nat Geo Wild Digital
+https://www.hotstar.com/in/tv/nat-geo-wild/1540075050/live/watch
