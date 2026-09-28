@@ -13,7 +13,7 @@ https://premiumplugx.top/Geo/playlist.php?route=mpd&id=starjalshahd
 #KODIPROP:inputstream.adaptive.license_key=https://premiumplugx.top/Geo/playlist.php?route=license&id=zeebanglahd
 https://premiumplugx.top/Geo/playlist.php?route=mpd&id=zeebanglahd
 
-#EXTINF:-1 tvg-name="Zee Bangla HD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_BANGLA/images/LANDSCAPE_169_HD/LANDSCAPE_169_HD_image.png" group-title="Entertainment",Zee Bangla
+#EXTINF:-1 tvg-name="Zee Bangla" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_BANGLA/images/LANDSCAPE_169_HD/LANDSCAPE_169_HD_image.png" group-title="Entertainment",Zee Bangla
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1df83e058b864da896c9288eef63b113:fc32f26239054b56aab48225305598fe
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebangla/default/index.mpd
