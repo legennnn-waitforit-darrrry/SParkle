@@ -2,14 +2,16 @@
 
 
 #EXTINF:-1 tvg-name="Star Jalsha HD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_JALSHA_HD/images/LANDSCAPE_169_HD/image.png" group-title="Entertainment",Star Jalsha HD
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://jt.drmlive.net/jiotvplus/jtck?id=317
-https://jt.drmlive.net/jiotvplus/317.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://premiumplugx.top/Geo/playlist.php?route=license&id=starjalshahd
+https://premiumplugx.top/Geo/playlist.php?route=mpd&id=starjalshahd
 
 #EXTINF:-1 tvg-name="Zee Bangla HD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_BANGLA_HD/images/LANDSCAPE_169_HD/LANDSCAPE_169_HD_image.png" group-title="Entertainment",Zee Bangla HD
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://jt.drmlive.net/jiotvplus/jtck?id=1977
-https://jt.drmlive.net/jiotvplus/1977.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://premiumplugx.top/Geo/playlist.php?route=license&id=zeebanglahd
+https://premiumplugx.top/Geo/playlist.php?route=mpd&id=zeebanglahd
 
 #EXTINF:-1 tvg-name="Zee Bangla" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_BANGLA/images/LANDSCAPE_169_HD/LANDSCAPE_169_HD_image.png" group-title="Entertainment",Zee Bangla
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -57,14 +59,16 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zoom2/default/main.mpd
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zing/default/index.mpd
 
 #EXTINF:-1 tvg-name="Disney" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_DISNEY_CHANNEL/images/LANDSCAPE_169_HD/image.png" group-title="Kids",Disney Channel
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://jt.drmlive.net/jiotvplus/jtck?id=1373
-https://jt.drmlive.net/jiotvplus/1373.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://premiumplugx.top/Geo/playlist.php?route=license&id=disneychannel
+https://premiumplugx.top/Geo/playlist.php?route=mpd&id=disneychannel
 
 #EXTINF:-1 tvg-name="Hungama" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_HUNGAMA/images/LANDSCAPE_169_HD/image.png" group-title="Kids",Hungama
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://jt.drmlive.net/jiotvplus/jtck?id=1391
-https://jt.drmlive.net/jiotvplus/1391.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://premiumplugx.top/Geo/playlist.php?route=license&id=hungama
+https://premiumplugx.top/Geo/playlist.php?route=mpd&id=hungama
 
 #EXTINF:-1 tvg-name="SONY YAY!" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONY_YAY/images/LANDSCAPE_169_HD/LANDSCAPE_169_HD_image.png" group-title="Kids",Sony Yay
 https://sliv.tgaadi.workers.dev/sonyyaysd.m3u8
