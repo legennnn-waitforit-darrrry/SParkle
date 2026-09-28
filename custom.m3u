@@ -2,9 +2,6 @@
 
 
 #EXTINF:-1 tvg-name="Star Jalsha HD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_JALSHA_HD/images/LANDSCAPE_169_HD/image.png" group-title="Entertainment",Star Jalsha HD
-hotstar://content/1540068265
-
-#EXTINF:-1 tvg-name="Star Jalsha HD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_JALSHA_HD/images/LANDSCAPE_169_HD/image.png" group-title="Entertainment",Star Jalsha HD
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://premiumplugx.top/Geo/playlist.php?route=license&id=starjalshahd
