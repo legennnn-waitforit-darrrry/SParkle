@@ -15,9 +15,9 @@ https://sliv.tgaadi.workers.dev/sabhd.m3u8
 https://jt.drmlive.net/jiotvplus/1145.mpd
 
 #EXTINF:-1 tvg-name="Zing" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZING/images/LANDSCAPE_169_HD/image.png" group-title="Music",Zing
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=f0fb14eebe474a6ab74c8301d55a7224:f9f8b2e30704458b8db844a285ce32be
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zing/default/index.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://jt.drmlive.net/jiotvplus/jtck?id=585
+https://jt.drmlive.net/jiotvplus/585.mpd
 
 #EXTINF:-1 tvg-name="Disney Channel" tvg-logo="https://img.media.jio.com/tvpimages/1/35/302071_1753185242621_l_medium.jpg" group-title="Kids",Disney Channel
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -58,17 +58,12 @@ https://jt.drmlive.net/jiotvplus/1104.mpd
 https://jt.drmlive.net/jiotvplus/1110.mpd
 
 #EXTINF:-1 tvg-name="And Pictures HD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SYMAND_PICTURES_HD/images/LANDSCAPE_169_HD/LANDSCAPE_169_HD_image.png" group-title="Movies",&Pictures HD
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=de8045e9f0fb4d03845dcc4a8bd7712a:6807bd09bda34ada83152908192af6d6
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andpictureshd/default/index.mpd
-
-#EXTINF:-1 tvg-name="And Xplor HD" tvg-logo="https://img.media.jio.com/tvpimages/57/69/300322_1768298093901_l_medium.jpg" group-title="Movies",&Xplor HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://jt.drmlive.net/jiotvplus/jtck?id=1668
-https://jt.drmlive.net/jiotvplus/1668.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://jt.drmlive.net/jiotvplus/jtck?id=185
+https://jt.drmlive.net/jiotvplus/185.mpd
 
 #EXTINF:-1 tvg-name="Zee Cinema HD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_CINEMA_HD/images/LANDSCAPE_169_HD/LANDSCAPE_169_HD_image.png" group-title="Movies",Zee Cinema HD
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=f56beaac9f124616872c741c9ce4fa4e:5d40a903238f4ad98abbed1877d4e3d1
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeecinemahd/default/index.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://jt.drmlive.net/jiotvplus/jtck?id=165
+https://jt.drmlive.net/jiotvplus/165.mpd
 
